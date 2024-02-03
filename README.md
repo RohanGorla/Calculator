@@ -1,0 +1,1 @@
+This is a Basic calculator i designed using HTML, CSS and Jav Script. This will perform basic calculations for now. This still doesn't have any operator presidence, but i will add it later to make it more advanced.
